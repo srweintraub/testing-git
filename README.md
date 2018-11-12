@@ -1,2 +1,2 @@
 # testing-git
-testing the git workflow
+Repository to train on git Rstudio workflow
